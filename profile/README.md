@@ -1,4 +1,3 @@
 # ETH KIPU
-_La tierra fértil de Ethereum en Latinoamérica_
-
-👷 Esta org de GitHub sigue bajo construcción, por favor vuelva más tarde.
+## Connecting the present with the future of Ethereum#
+ETH Kipu is a nonprofit foundation that weaves bonds to strengthen the Ethereum ecosystem through education and cooperation
